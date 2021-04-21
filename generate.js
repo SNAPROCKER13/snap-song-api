@@ -25,11 +25,15 @@ module.exports = function () {
         ownerId: id % 3 === 0 ? 1 : id % 2 === 0 ? 2 : 3
       }
     }),
-    playlist: _.times(12, function (n) {
+    playlist: _.times(36, function (n) {
       const id = n + 1
+      const tmp = Math.floor(id / 3)
+      let userId = 0
+      let songId = 0
       return {
-        id: n + 1,
-        id: n + 1
+        id,
+        userId: id % 3 === 0 ? 3 : id % 3,
+        songId: id % 3 !== 0 ? ~~tmp + 1 : ~~tmp
       }
     })
   }
