@@ -14,17 +14,19 @@ module.exports = function () {
       }
     }),
     songs: _.times(12, function (n) {
+      const id = n + 1
       return {
-        id: n + 1,
+        id,
         title: faker.name.title(),
         artist: faker.name.title(),
         description: faker.lorem.paragraph(),
         songURL: faker.internet.url(),
         imageURL: faker.image.image(),
-        ownerId: (n + 1) % 3 === 0 ? 1 : (n + 1) % 2 === 0 ? 2 : 3
+        ownerId: id % 3 === 0 ? 1 : id % 2 === 0 ? 2 : 3
       }
     }),
     playlist: _.times(12, function (n) {
+      const id = n + 1
       return {
         id: n + 1,
         id: n + 1
