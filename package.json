@@ -1,0 +1,15 @@
+{
+  "name": "song-db",
+  "author": "Theerawat Somsin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate":"json-server --port 8080 generate.js --watch"
+  },
+  "dependencies": {
+    "faker": "^5.5.3",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {"json-server": "^0.16.3"}
+}
