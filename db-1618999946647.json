@@ -1,0 +1,290 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Kellie",
+      "lastName": "Abbott",
+      "imageURL": "https://cdn.fakercloud.com/avatars/olaolusoga_128.jpg",
+      "email": "Flo86@hotmail.com",
+      "password": "49ZTJbNo8QaqqPh"
+    },
+    {
+      "id": 2,
+      "firstName": "Camila",
+      "lastName": "Wintheiser",
+      "imageURL": "https://cdn.fakercloud.com/avatars/andysolomon_128.jpg",
+      "email": "Emerson.Bergnaum75@yahoo.com",
+      "password": "CkQmNlGkgxa3Hog"
+    },
+    {
+      "id": 3,
+      "firstName": "Brayan",
+      "lastName": "Von",
+      "imageURL": "https://cdn.fakercloud.com/avatars/lepetitogre_128.jpg",
+      "email": "Wade_Mayer@yahoo.com",
+      "password": "K91pGYmZ7aWsdUA"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "National Response Assistant",
+      "artist": "Investor Response Manager",
+      "description": "Reprehenderit labore voluptate. Harum non repellendus et aliquam consequatur molestiae vero aliquid esse. Rerum amet numquam. Rerum cupiditate iusto ab. Commodi adipisci optio.",
+      "songURL": "https://whitney.com",
+      "imageURL": "http://placeimg.com/640/480/city",
+      "ownerId": 3
+    },
+    {
+      "id": 2,
+      "title": "International Implementation Liaison",
+      "artist": "Corporate Security Manager",
+      "description": "Voluptatem nemo dolorum nobis. Corrupti reiciendis autem sed temporibus earum consequatur rem corrupti cupiditate. Nobis quas minus qui rerum animi tempora non. Laudantium id voluptatem sequi est. Necessitatibus omnis perferendis adipisci ut fugit delectus facilis. Voluptates aut unde dolores vero quibusdam omnis.",
+      "songURL": "https://virginie.name",
+      "imageURL": "http://placeimg.com/640/480/transport",
+      "ownerId": 2
+    },
+    {
+      "id": 3,
+      "title": "Dynamic Implementation Specialist",
+      "artist": "Regional Marketing Technician",
+      "description": "Suscipit in et quo sed. Rerum fugiat eligendi et nisi. Quasi corporis laboriosam aspernatur voluptatem quae quod repellat. Dolores quos voluptatem iusto esse minus quam enim et neque.",
+      "songURL": "https://deontae.org",
+      "imageURL": "http://placeimg.com/640/480/business",
+      "ownerId": 1
+    },
+    {
+      "id": 4,
+      "title": "Senior Integration Engineer",
+      "artist": "Customer Branding Technician",
+      "description": "Quo sed similique aspernatur. Suscipit explicabo assumenda recusandae beatae dolorum omnis accusantium. Veniam accusamus reiciendis consequatur et vel dolore sed quidem. Culpa voluptatem error veritatis facilis neque in. Illo atque eius laudantium.",
+      "songURL": "http://mariana.net",
+      "imageURL": "http://placeimg.com/640/480/nature",
+      "ownerId": 2
+    },
+    {
+      "id": 5,
+      "title": "Principal Factors Developer",
+      "artist": "Senior Factors Planner",
+      "description": "Quos dignissimos dolores et quasi ipsum soluta deserunt. Enim aspernatur suscipit odit. Dolorum omnis adipisci non.",
+      "songURL": "http://micaela.biz",
+      "imageURL": "http://placeimg.com/640/480/cats",
+      "ownerId": 3
+    },
+    {
+      "id": 6,
+      "title": "Legacy Quality Supervisor",
+      "artist": "Global Communications Executive",
+      "description": "Rerum iusto facilis totam sint qui rerum quod consequatur. Autem occaecati praesentium vero dolor illum voluptatem. Aut placeat et sapiente velit quis ratione distinctio.",
+      "songURL": "https://walker.net",
+      "imageURL": "http://placeimg.com/640/480/people",
+      "ownerId": 1
+    },
+    {
+      "id": 7,
+      "title": "Senior Assurance Architect",
+      "artist": "Senior Assurance Producer",
+      "description": "Aspernatur earum facere quis esse et veritatis a repellendus. Consequuntur rem at fugit perspiciatis aut ad beatae autem. Omnis sapiente sit quis laudantium.",
+      "songURL": "https://anibal.biz",
+      "imageURL": "http://placeimg.com/640/480/abstract",
+      "ownerId": 3
+    },
+    {
+      "id": 8,
+      "title": "International Metrics Coordinator",
+      "artist": "Lead Quality Facilitator",
+      "description": "Dolore dolorum officiis ad temporibus aperiam sed aliquam. In quo ut itaque velit repellendus architecto voluptates laboriosam. Culpa id et est at temporibus aliquid. Fugiat ut sit aperiam nesciunt cumque itaque veritatis voluptatem. Sint sed excepturi.",
+      "songURL": "http://lupe.biz",
+      "imageURL": "http://placeimg.com/640/480/people",
+      "ownerId": 2
+    },
+    {
+      "id": 9,
+      "title": "Legacy Identity Consultant",
+      "artist": "Human Metrics Designer",
+      "description": "Sint velit libero amet. Doloribus quibusdam animi ipsam et est voluptatem earum. Cumque eum minima velit facere. Distinctio velit eum quis qui earum possimus dolor incidunt dignissimos.",
+      "songURL": "https://lowell.biz",
+      "imageURL": "http://placeimg.com/640/480/city",
+      "ownerId": 1
+    },
+    {
+      "id": 10,
+      "title": "National Configuration Specialist",
+      "artist": "Lead Data Coordinator",
+      "description": "Quod laborum iste dolorum iste ratione. Ut dolorem saepe. Totam non facilis dolor dolores. Occaecati eos error qui nesciunt dolor blanditiis aut.",
+      "songURL": "https://chesley.name",
+      "imageURL": "http://placeimg.com/640/480/nature",
+      "ownerId": 2
+    },
+    {
+      "id": 11,
+      "title": "Senior Data Specialist",
+      "artist": "Dynamic Accounts Executive",
+      "description": "Vel itaque ullam veritatis illo. Ea dolor accusantium ullam voluptatem perspiciatis eos eum. Aut dolor quis necessitatibus rerum voluptatem. Vel delectus ea. Neque fugit alias quos quia voluptas.",
+      "songURL": "https://ignacio.name",
+      "imageURL": "http://placeimg.com/640/480/cats",
+      "ownerId": 3
+    },
+    {
+      "id": 12,
+      "title": "Internal Metrics Designer",
+      "artist": "Principal Mobility Strategist",
+      "description": "Eveniet nam adipisci rerum. Consectetur excepturi blanditiis illum in. Consequatur dolores aut. Blanditiis soluta voluptatem eum assumenda asperiores earum distinctio ratione. Fugiat qui iusto qui quaerat unde omnis delectus. Optio doloribus omnis id.",
+      "songURL": "http://trent.net",
+      "imageURL": "http://placeimg.com/640/480/food",
+      "ownerId": 1
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+      "userId": 1,
+      "songId": 1
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "songId": 1
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "songId": 1
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "songId": 2
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "songId": 2
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "songId": 2
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "songId": 3
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "songId": 3
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "songId": 3
+    },
+    {
+      "id": 10,
+      "userId": 1,
+      "songId": 4
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "songId": 4
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "songId": 4
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "songId": 5
+    },
+    {
+      "id": 14,
+      "userId": 2,
+      "songId": 5
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "songId": 5
+    },
+    {
+      "id": 16,
+      "userId": 1,
+      "songId": 6
+    },
+    {
+      "id": 17,
+      "userId": 2,
+      "songId": 6
+    },
+    {
+      "id": 18,
+      "userId": 3,
+      "songId": 6
+    },
+    {
+      "id": 19,
+      "userId": 1,
+      "songId": 7
+    },
+    {
+      "id": 20,
+      "userId": 2,
+      "songId": 7
+    },
+    {
+      "id": 21,
+      "userId": 3,
+      "songId": 7
+    },
+    {
+      "id": 22,
+      "userId": 1,
+      "songId": 8
+    },
+    {
+      "id": 23,
+      "userId": 2,
+      "songId": 8
+    },
+    {
+      "id": 24,
+      "userId": 3,
+      "songId": 8
+    },
+    {
+      "id": 25,
+      "userId": 1,
+      "songId": 9
+    },
+    {
+      "id": 26,
+      "userId": 2,
+      "songId": 9
+    },
+    {
+      "id": 27,
+      "userId": 3,
+      "songId": 9
+    },
+    {
+      "id": 28,
+      "userId": 1,
+      "songId": 10
+    },
+    {
+      "id": 29,
+      "userId": 2,
+      "songId": 10
+    },
+    {
+      "id": 30,
+      "userId": 3,
+      "songId": 10
+    }
+  ]
+}
