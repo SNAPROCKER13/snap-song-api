@@ -285,36 +285,6 @@
       "id": 30,
       "userId": 3,
       "songId": 10
-    },
-    {
-      "id": 31,
-      "userId": 1,
-      "songId": 11
-    },
-    {
-      "id": 32,
-      "userId": 2,
-      "songId": 11
-    },
-    {
-      "id": 33,
-      "userId": 3,
-      "songId": 11
-    },
-    {
-      "id": 34,
-      "userId": 1,
-      "songId": 12
-    },
-    {
-      "id": 35,
-      "userId": 2,
-      "songId": 12
-    },
-    {
-      "id": 36,
-      "userId": 3,
-      "songId": 12
     }
   ]
 }
